@@ -1,69 +1,58 @@
-Simple Chatbot 🤖
-Project Overview
-This project is a simple chatbot built using predefined rules to respond to user inputs. It uses if-else statements and pattern matching techniques to identify user queries and provide appropriate responses, simulating basic Natural Language Processing (NLP) techniques.
+Chatbot Project
+Welcome to the Chatbot project! This project was developed as part of my internship at CodSoft, showcasing the implementation of a simple chatbot that responds to user inputs based on predefined rules using HTML, CSS, JavaScript, and Python Flask.
 
-The chatbot is built using:
-Frontend: HTML, CSS, JavaScript
-Backend: Flask
-The goal of this project is to provide a basic understanding of conversation flow and chatbot design.
------------------------------------------------------------------------------
-Features ✨
-Responds to user queries based on predefined rules
-Uses pattern matching to understand simple inputs
-Interactive UI for user input (built with HTML, CSS, and JavaScript)
-Real-time response to user queries using Flask as the backend framework
----------------------------------------------------------------------------
-Tech Stack 💻
-Frontend: HTML5, CSS3, JavaScript
+Table of Contents
+Features
+Technologies Used
+Installation
+Usage
+How to Interact
+License
+Contact
 
-Backend: Python (Flask)
----------------------------------------------------------------------------
-Installation 🛠️
+Features
+Interactive User Interface: A user-friendly interface for seamless interactions.
+Predefined Responses: The chatbot uses if-else statements to provide appropriate responses based on user inputs.
+Real-time Feedback: Users receive instant replies to their queries.
+
+Technologies Used
+Frontend:
+HTML
+CSS
+JavaScript
+
+Backend:
+Python
+Flask
+Installation
 Clone the repository:
-git clone https://github.com/your-username/simple-chatbot.git
 
-Navigate into the project directory: cd simple-chatbot
-Create a virtual environment (optional but recommended): python -m venv venv
-Activate the virtual environment:
+git clone https://github.com/MMA1006/Codsoft-Task-1.git
+Navigate to the project directory:
 
-On Windows: venv\Scripts\activate
 
-On macOS/Linux: source venv/bin/activate
+cd Codsoft-Task-1
+Install the required Python packages:
 
-Install the required dependencies:
 pip install -r requirements.txt
+Run the Flask application:
 
-Run the Flask app: python app.py
-Access the chatbot in your browser by visiting:
-http://127.0.0.1:5001
-------------------------------------------------------------------------------
-Usage 🚀
-Open the web page in your browser.
-Type a query into the input box (e.g., "Hello," "How are you?" etc.).
-The chatbot will respond based on predefined rules coded into the backend.
-------------------------------------------------------------------------------
+python app.py
+Open your browser and go to http://127.0.0.1:5000 to start interacting with the chatbot!
 
-File Structure 📂
+Usage
+Follow the instructions in the installation section to set up the chatbot locally.
 
-simple-chatbot/
-│
-├── templates/
-│   └── index.html        # Frontend HTML file
-├── static/
-│   ├── styles.css        # CSS for styling
-│   └── script.js         # JavaScript for interactivity
-├── app.py                # Flask backend server
-├── requirements.txt      # List of dependencies
-└── README.md             # Project documentation
-----------------------------------------------------------------------------------
-Future Improvements 🔧
-Expand the predefined rules to handle more complex queries
-Integrate more advanced Natural Language Processing techniques
-Implement a machine learning model for dynamic responses
------------------------------------------------------------------------------------
-License 📄
+How to Interact
+Open the application in your browser.
+Type your query in the input field and hit Enter.
+The chatbot will respond based on predefined rules.
+Continue the conversation by typing your next query.
+License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author ✍️
-Mir Muzammil Ali
-AI Intern at CodSoft
+Contact
+If you have any questions or feedback, feel free to reach out to me:
+
+Email: muzali2003@gmail.com
+
