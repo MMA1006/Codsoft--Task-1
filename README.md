@@ -1,6 +1,6 @@
 
 
----
+
 
  Chatbot Project
 
@@ -63,7 +63,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you have any questions or feedback, feel free to reach out to me:
 
 Email: muzali2003@gmail.com
+GitHub: [MMA1006](https://github.com/MMA1006)
 
----
 
-Feel free to adjust any sections as needed! Let me know if you need more assistance.
+
